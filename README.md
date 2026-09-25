@@ -1,5 +1,5 @@
 # FINAL-PR-UNIVERSITY-COURSE-MANAGAMENT-
- <div align="center">
+<div align="center">
 
 # 🎓 University Course Management System
 ### *A complete SQL-powered academic ecosystem — students, courses, instructors, all in one place* 🏛️
@@ -14,7 +14,17 @@
 
 > 💭 *"Just storing data isn't enough — the real skill lies in **querying it, understanding it, and turning it into a story**."*
 
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE-View_Demo-red?style=for-the-badge)](https://your-live-link-here)
+
 </div>
+
+---
+
+## 🔴 Live Demo
+
+**<https://your-live-link-here>**
+
+Click here to see the SQL and output for every query, all on one page. *(Drop your actual live/artifact link in here whenever it's ready.)*
 
 ---
 
@@ -186,7 +196,7 @@ Suggestions and improvements are always welcome! Feel free to fork, open an issu
 
 <div align="center">
 
-### 👩‍💻 AUTHOR Kavita Khushalani
+### 👩‍💻 Crafted by Kavita Khushalani
 
 > 💭 *"Writing a query is easy, but asking the **right question** is real engineering."*
 
