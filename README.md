@@ -1,4 +1,4 @@
-# FINAL-PR-UNIVERSITY-COURSE-MANAGAMENT-
+# FINAL-PR UNIVERSITY COURSE MANAGAMENT
   <div align="center">
 
 # 🎓 University Course Management System
