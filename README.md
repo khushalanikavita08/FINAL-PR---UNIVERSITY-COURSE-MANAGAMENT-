@@ -49,7 +49,7 @@ This project simulates a **University's database backbone** — where Students, 
 
 ---
 
-## project overview**
+## project overview
 <img width="1408" height="768" alt="image_f9cae87a (1)" src="https://github.com/user-attachments/assets/4e331e6a-f933-4e60-9e76-7a1a80104e8c" />
 
 
@@ -139,7 +139,8 @@ ORDER BY StudentCount DESC;
 ---
 
 ## sample output**
-<img width="709" height="1600" alt="WhatsApp Image 2026-09-25 at 8 52 25 PM" src="https://github.com/user-attachments/assets/3fb8e838-3c79-40c6-a7e4-7722a40f66ec" />
+ <img width="896" height="1200" alt="image_fe4648da" src="https://github.com/user-attachments/assets/927c2673-70e9-4126-a02a-9be085ca5323" />
+
 
 
 ## 🔍 Sample Queries
@@ -197,7 +198,7 @@ Suggestions and improvements are always welcome! Feel free to fork, open an issu
 
 <div align="center">
 
-### 👩‍💻 Crafted by Kavita Khushalani
+### 👩‍💻 author  Kavita Khushalani
 
 > 💭 *"Writing a query is easy, but asking the **right question** is real engineering."*
 
