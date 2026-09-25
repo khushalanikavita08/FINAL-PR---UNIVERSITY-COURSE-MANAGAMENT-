@@ -1,5 +1,5 @@
 # FINAL-PR-UNIVERSITY-COURSE-MANAGAMENT-
- <div align="center">
+  <div align="center">
 
 # 🎓 University Course Management System
 ### *A complete SQL-powered academic ecosystem — students, courses, instructors, all in one place* 🏛️
@@ -14,7 +14,7 @@
 
 > 💭 *"Just storing data isn't enough — the real skill lies in **querying it, understanding it, and turning it into a story**."*
 
-[![🔴 LIVE](https://img.shields.io/badge/🔴_LIVE-PROJECT-red?style=for-the-badge&labelColor=black)](#)
+[![Typing animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=F75000&center=true&vCenter=true&width=600&lines=Managing+Students%2C+Courses+%26+Instructors...;Powered+by+PostgreSQL+%2B+SQL+Joins;Building+a+Real+University+Database)](https://git.io/typing-svg)
 
 </div>
 
